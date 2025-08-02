@@ -2,6 +2,9 @@ body{
     margin: 0;
     height: 100vh;
     background-color: black;
+    background-image:url(sea-water.jpg);
+    background-repeat:no-repeat;
+    background-size:cover;
     overflow: hidden;
 }
 span {
@@ -32,4 +35,5 @@ span {
             transform: translate(-50%,-5000%);
             opacity: 0;
     }
+
 }
